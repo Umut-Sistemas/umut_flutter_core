@@ -1,0 +1,19 @@
+name: umut_flutter_core
+description: Core package used by "Umut Sistemas" Flutter solutions.
+version: 0.0.1
+homepage: https://github.com/Umut-Sistemas/umut_flutter_core
+
+environment:
+  sdk: ">=2.17.3 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+
+flutter:
