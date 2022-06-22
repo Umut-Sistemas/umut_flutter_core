@@ -1,4 +1,4 @@
-library umut_core;
+library umut_flutter_core;
 
 export 'extensions/extensions.dart';
 export 'helpers/helpers.dart';
